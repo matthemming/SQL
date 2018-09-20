@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DDL Learning", "DDL Learning\DDL Learning.ssmssqlproj", "{6BCFF5ED-FE6F-4D93-857F-072E77450677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCFF5ED-FE6F-4D93-857F-072E77450677}.Default|Default.ActiveCfg = Default
+		{4021E1AB-4F20-4AC9-92BA-B639BB2C9477}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
